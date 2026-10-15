@@ -1,0 +1,6 @@
+{
+  "name": "ScholarAI - College Study Assistant",
+  "description": "Comprehensive academic AI study chatbot with basic-to-advanced progression, Socratic tutoring, flashcard & quiz generation, and exam preparation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
