@@ -87,8 +87,8 @@ export const Navbar: React.FC<NavbarProps> = ({
                 College Edition
               </span>
             </div>
-            <span className="hidden md:block text-[11px] text-slate-500 dark:text-slate-400">
-              Basic to Advanced Study Chatbot
+            <span className="block text-[10px] sm:text-[11px] font-medium text-indigo-600 dark:text-indigo-400">
+              Created by Harshit Pandey
             </span>
           </div>
         </div>
